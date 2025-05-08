@@ -57,4 +57,3 @@ Unlike GUI-based solutions, this lightweight CLI tool prioritizes **scriptabilit
 
 
 ---  
-**Need adjustments?** Let me know if you'd like to emphasize specific features or add screenshots!
