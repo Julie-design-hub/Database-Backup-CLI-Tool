@@ -35,16 +35,11 @@ db_backup_tool/
 └── README.md              # Setup + usage guide  
 ```
 
-**🔧 Quick Start**  
-1. Clone the repo:  
-   ```bash  
-   git clone https://github.com/yourusername/db_backup_tool.git  
-   ```  
-2. Install dependencies:  
+**Install dependencies:**  
    ```bash  
    pip install -r requirements.txt  
    ```  
-3. Run a backup:  
+**Run a backup:**  
    ```bash  
    python main.py --db mysql --host localhost --user root --output local  
    ```  
