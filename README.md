@@ -1,7 +1,7 @@
 # Database-Backup-CLI-Tool
-A Python CLI tool to automate backups for MySQL, PostgreSQL &amp; MongoDB with compression, cloud storage (AWS/GCP), and encryption – designed for developers who value simplicity and security. 🚀
+A Python CLI tool to automate backups for MySQL, PostgreSQL &amp; MongoDB with compression, cloud storage (AWS/GCP), and encryption – designed with value of simplicity and security. 🚀
 
-**GitHub Repository Description: CLI Database Backup Utility**  
+**CLI Database Backup Utility**  
 
 **🔧 Overview**  
 This repository hosts a **command-line interface (CLI) tool** for backing up and restoring multiple database types (MySQL, PostgreSQL, MongoDB) with support for local/cloud storage, compression, and scheduling. Designed for developers and sysadmins, it simplifies database management through automation and secure workflows.  
